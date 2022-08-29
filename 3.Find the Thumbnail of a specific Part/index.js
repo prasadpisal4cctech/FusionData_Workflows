@@ -3,11 +3,11 @@ import MyAuth from './auth.js';
 
 // Replace the string literal values with your own client id, client secret, 
 // hub name, project name and component name.
-const clientId = '<YOUR_CLIENT_ID>';
-const clientSecret = '<YOUR_CLIENT_SECRET>';
-const hubName = '<YOUR_HUB_NAME>';
-const projectName = '<YOUR_PROJECT_NAME>'; 
-const componentName = '<YOUR_COMPONENT_NAME>';
+const clientId = 'sAGcoK4ILuXQms2WqHh7jUqXMQAGsqTA';
+const clientSecret = '0iFXud1trFXr1pyK';
+const hubName = 'PIM-Beta-Test';
+const projectName = 'Fusion-pim-beta-two'; 
+const componentName = 'Chairs';
 
 // Create an instance of auth.js.
 let myForgeAuth = new MyAuth(clientId, clientSecret);
